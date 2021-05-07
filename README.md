@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakrae
 - 👀 I’m interested in Programming, reading and going to Mars.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any kind of projects I may help.
+- 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me: adiandreibihuneti@gmail.com
 
 <!---
